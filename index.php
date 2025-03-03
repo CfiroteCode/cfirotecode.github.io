@@ -14,9 +14,6 @@
 </head>
 
 <body>
-
-  
-
   <!-- Navigation fixe -->
   <nav class="navbar">
     <div class="nav-logo">
@@ -172,16 +169,8 @@
   <section id="contact" class="contact-section fade-in">
     <h2>Contact</h2>
     <form class="contact-form" action="mailto:cfirote@gmail.com" method="mail">
-      <label for="name">Nom</label>
-      <input type="text" id="name" name="name" required />
-
-      <label for="email">Email</label>
-      <input type="email" id="email" name="email" required />
-
-      <label for="message">Message</label>
-      <textarea id="message" name="message" rows="5" required></textarea>
-
-      <button type="submit" name="envoie">Envoyer</button>
+      
+      <button type="submit" name="Contact :">Envoyer</button>
     </form>
   </section>
 
